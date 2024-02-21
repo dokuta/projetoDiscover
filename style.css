@@ -45,7 +45,8 @@ body * {
 
 #container {
   /* border: 1px solid red; */
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* aplica em todos os lados, mas não em cima e em baixo
   por regras do próprio css: */
   margin: 56px auto 0px;
